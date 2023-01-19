@@ -1,0 +1,6 @@
+.cards {
+  display: grid;
+  place-items: center;
+  background-color: lightblue;
+  padding: 15px;
+}
